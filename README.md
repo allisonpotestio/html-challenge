@@ -1,6 +1,8 @@
-# html-challenge
+# HTML-challenge: Module 11
+In this challenge, we use HTML code to perform web scraping of the Mars News Website. 
+Using the data found at the links provided, we scrape titles and preview text from Mars News, as well as integrating pandas and the matplotlib library to perform analyses.
 
-
+For this challenge, I reviewed the class recordings and activities from Module 11, as well as pandas documentation to remind myself of syntax on pandas and matplotlib.
 
 
 # References
